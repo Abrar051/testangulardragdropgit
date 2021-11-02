@@ -7,7 +7,7 @@ import {CdkDragDrop, moveItemInArray, transferArrayItem} from '@angular/cdk/drag
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Drag & Drop in Angular 7';
+  title = 'Drag & Drop in Angular';
   website = 'https://samorgill.com';
 
   todos = [
